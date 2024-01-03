@@ -1,17 +1,15 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
+    "name": "ChatUtilsRevamp",
+    "description": "Small modifications for Hypixel mostly relating to chat.",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "https://github.com/romangraef/Forge1.8.9Template/",
+    "url": "https://github.com/wiviw5/ChatUtils",
     "updateUrl": "",
-    "authorList": [
-      "You"
-    ],
-    "credits": "",
-    "logoFile": "",
+    "authorList": ["WiViW"],
+    "credits": "My primal urge to /boop friends when they join.",
+    "logoFile": "icon.png",
     "screenshots": [],
     "dependencies": []
   }

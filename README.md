@@ -1,3 +1,6 @@
+# This readme is temporary! I'll change it later.
+
+
 # Architectury Loom based template for 1.8.9 forge mods
 
 **For other templates, do check out the [other branches of this repository](https://github.com/romangraef/Forge1.8.9Template/branches/all)**
